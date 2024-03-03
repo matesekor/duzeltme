@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-producer-412110",
+  "private_key_id": "04eec0444374d00540e6364fae60feac9d02ffab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU+cn6m0LdiD6b\nQt6vEkwY7zbV3seCl9MaozsltaBJjpvFS/yZxUD9kanB993PmsUX3S85HJzuXlBX\n2jyPwLf4AA58291QuxARhb6FLppR28OcRx1Ldyuo/l/SSzagQxl/lEVPad/twkMd\nYByB2/tQ79YCP4Wdp9pRLbCNCZIEAyjAOaPPzFIXzJxlutjx/9FHHmfkyl/vn3q3\nFw1977bcnxDV0eBXjexDqXg5kjkle1gLLAM23yFAnulNno6xT5mZuxzLXSTM1lLU\nrIWNVm4Krcmb0fuLdn331FvSWyjFQzWSYpzxp1M5uyRgV/GIBqNX10iMR8XHKrx4\nMpADq2OBAgMBAAECggEABzuVxMFXFlI/22Km+10XYSq75awo1wze6iMBqY3Z1rBV\ne/AmW6Ew9tY75KQipUqanO0xuF0kuzelajEK03r2WcwZXIYppZ86CXj4TRTrFWft\njwt0juaKK2AQKFfOOsfB6uzseajye47tsTwIBnpOYPj0KflhnpwKXwK6jIpMVNR9\ncH1IRsuukKGbk4nEqRsiJ3RTNsXKlj21lAhqNG/cc60Wm3Q1FP8raKROGeEZ3T/Y\nlGaPhpMHDy8gJzwm+ddKHsjYLRiTMtktCFBZJiXHW4uRcM8XJEVYesZT3OycOhhk\nUKri/DHRZBIVZXDCHZVkHjB9DwRGAwGLv3/K0YI4HQKBgQDucKMREsSVimSbb3zR\n2BCYvo3GaNy2Ku2p2MP79Re7DflxAXYa35OvU56VEcyOUuYEHQVzO9B8ohpd0/G7\ntR83SFjb/5zAwiUPAESN1nwS4nsPTCTXQOvr4HXfTrnY0Vm7RT9jNSVme3gSYLls\n2sDjaeYaRzgcjYBgsH269Phd7wKBgQDkqRGYv7gF+hT4+GNZPcSr1ScUOefBdYaM\n1/XzQzWplOHc9W3r5pl1SBr7SekL+cMqHFW61HYW9vyM5Aj4e6QP4I0y9jkhNCwV\nYZvnej6scKueAsfe7gvOngFIphULjHmDsBwYhinKBPvu5RustBO/5qoRnA5aq+7T\nIQ3wA7rFjwKBgDwCYSf030D7maJ9Bp8Rj+vBWZEr5xB58WKjyX9qCdTsCXFlesH8\nrwCbPPgriJ3xQy6Z1ztPPIOBkL04kEg7p2WUcbi8tkjVE9qYqKhB6Owfz/Tjpwn9\nruKolUHkYGWvGrRFE1T2lTkbrfaCHWjGDXGuv1ixv+9/tWWgRaR97txFAoGAI4WU\nQzt9Vghcm7TSkjmDRQJu+LhqJWahiV2/SpQlUPvc/ptuARiovEyATItV1dNuGyud\nsdFxqu2hnC2MqzVh7kl/Bey0QVE+i+/G7XXTKKy0LG7YJ+ypDucC4gtS96FR+0Av\njSvCcCzICnuzCehLrSMjRmsM288b4dafuKqLqEcCgYEAzUg6AKqymecm1Ie4bfYD\neEmfaJD2D0NPBU+8bAmOIY1D9Jm52O7DKZbGnUNNAXjTGMxvazcO/5GmaXUXNnIr\nE2zKfsvmMTgFvgORv1GIKDvUV0V4n5N51xAyUQ//GSZODPZDlHEDcuvE/lBULJ52\nGvXllUNONM8K6Ntb9jwH13Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mrghfx5bcmjd6mzu2uh7o6qpfr@agile-producer-412110.iam.gserviceaccount.com",
+  "client_id": "105569965007614257963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mrghfx5bcmjd6mzu2uh7o6qpfr%40agile-producer-412110.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
